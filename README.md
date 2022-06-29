@@ -1,1 +1,5 @@
 # Music-Player-Application
+
+. The Music Player app allows users to play music, podcasts, or any other compatible media files.I implemented the authentication of users, capabilities to play  music, and an easy to use interactive user interface. Regarding authentication of users , also used a SQLite Database to store new accounts into the ‘accounts’ table. The SQLite Database was used to create new accounts and verify user credentials in the signup and login pages. 
+
+The main benefit of the app is that it uses external storage, this is done by making use of existing .mp3 or .wav files. This gives it a great advantage as it does not require internet or subscriptions to media providers. When it comes to the graphical user interface(GUI) , adopted a GUI that is very functional and easy to use. This is why i implemented buttons such as  play, pause, rewind, next, previous, fast forward and repeat. These buttons are universally known and accepted, which makes the Music Player app more user friendly.
